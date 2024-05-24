@@ -1,5 +1,5 @@
 # test
-This was my test.ok
+This is my test
 
 Hello hello i am sahiru
 
